@@ -1,0 +1,2409 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ozel-gunler-takvimi//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Özel Günler
+X-WR-CALDESC:Türkiye ve dünyadan özel günler; bir gün önce gündem ve
+  içerik planı
+X-WR-TIMEZONE:Europe/Istanbul
+X-APPLE-CALENDAR-COLOR:#E4572E
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:9ca7ee7a31ba3e62@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:17 Ağustos Marmara Depremini Anma Günü [hassas]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: 17 Ağustos Marmara Depremini Anma Günü [hassas] — 
+ gündem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:23e7bb94fdc73afc@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Dünya Fotoğraf Günü [popüler]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Fotoğraf Günü [popüler] — gündem ve içer
+ ik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ad599282f3f4cd64@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Zafer Bayramı
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Zafer Bayramı — gündem ve içerik planı etkinlik n
+ otlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9532898196ff306f@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Uluslararası Hayırseverlik Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Hayırseverlik Günü — gündem ve içe
+ rik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b7a997f17de8581b@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Dünya Okuryazarlık Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Okuryazarlık Günü — gündem ve içerik plan
+ ı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8d516b9d086a592f@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Uluslararası Demokrasi Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Demokrasi Günü — gündem ve içerik p
+ lanı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8e1016413f73b963@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Gaziler Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Gaziler Günü — gündem ve içerik planı etkinlik n
+ otlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:027e491d5aa61297@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Uluslararası Barış Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Barış Günü — gündem ve içerik pla
+ nı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d9e6d2a564ed73a9@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Türk Dil Bayramı [eğitim]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Türk Dil Bayramı [eğitim] — gündem ve içerik pla
+ nı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2bfa6e8159725bca@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Dünya Turizm Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Turizm Günü — gündem ve içerik planı etki
+ nlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ee8f7c193469f2b4@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Dünya Kahve Günü [popüler]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Kahve Günü [popüler] — gündem ve içerik p
+ lanı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:80d320d0191bcb37@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Dünya Yaşlılar Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Yaşlılar Günü — gündem ve içerik planı 
+ etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fa5d23ae43ae0155@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261011
+SUMMARY:Dünya Uzay Haftası [matematik/bilim]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Uzay Haftası [matematik/bilim] — gündem ve i
+ çerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c34063ea0bf91c25@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Hayvanları Koruma Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Hayvanları Koruma Günü — gündem ve içerik planı
+  etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:536257e989210c4b@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Dünya Öğretmenler Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Öğretmenler Günü — gündem ve içerik plan
+ ı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:22b7f47e952b64b4@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Dünya Ruh Sağlığı Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Ruh Sağlığı Günü — gündem ve içerik pl
+ anı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7392085e8800c612@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Dünya Kız Çocukları Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Kız Çocukları Günü — gündem ve içerik p
+ lanı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2e42190b8d7cb422@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Ada Lovelace Günü [matematik/bilim]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Ada Lovelace Günü [matematik/bilim] — gündem ve i
+ çerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9fcdb7348e94b8fa@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Dünya Gıda Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Gıda Günü — gündem ve içerik planı etkin
+ lik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0ef545c0f02ebbe@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Mol Günü (6\,02×10²³) [matematik/bilim]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Mol Günü (6\,02×10²³) [matematik/bilim] — günde
+ m ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e24e363cba8ee634@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Birleşmiş Milletler Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Birleşmiş Milletler Günü — gündem ve içerik pla
+ nı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:71f7cc70bc2919d0@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Cumhuriyet Bayramı
+DESCRIPTION:🇹🇷 CUMHURİYET BAYRAMI — 29 Ekim 2026\, Perşembe\n(Ön
+  plan\, 15 Ekim'de hazırlandı. 28 Ekim sabahı güncel gündemle yenilen
+ ecek.)\n\n📰 GÜNDEM\n• Cumhuriyet'in 103. yılı (29 Ekim 1923 → 20
+ 26).\n• Tatil 28 Ekim 13.00'te başlıyor\, 29 Ekim tam gün resmî tati
+ l.\n• 2026 için ilan edilmiş resmî bir tema bulunamadı. Okullarda t
+ ören\, şiir ve gösteri var.\nKaynak: https://www.milliyet.com.tr/egitim
+ /cumhuriyetin-kacinci-yilindayiz-2026-cumhuriyetin-kacinci-yili-oluyor-745
+ 8525\n\n💡 ANA FİKİR\n"103 yıl kaç gün eder?" Sayılarla küçük b
+ ir zaman yolculuğu\, ardından bayramın anlamı.\n\n📌 POST (carousel)
+ \nKapak: "103 yıl kaç gün eder? Cumhuriyet'in yaşını hesapladık 
+ 🇹🇷"\n1) 29 Ekim 1923 → 29 Ekim 2026: 2026 − 1923 = 103 yıl\n2) 
+ 103 × 365 = 37.595\, + 26 artık gün = tam 37.621 gün\n3) Bir nesil ≈
+  25 yıl → 103 yılda yaklaşık 4 nesil\n4) Senin ailende kaç nesil Cu
+ mhuriyet'le yaşadı?\n5) Eğitimde dönüm noktası: Harf Devrimi (1928)\
+ n6) Bugün sınıfta öğrendiğimiz her şey bu mirasın parçası\n7) Cu
+ mhuriyet'in yaşından kendi yaşını çıkar\, farkı yorumlara yaz\n8) 
+ Cumhuriyet Bayramımız kutlu olsun 🇹🇷\n\nCaption: "Sınıfta hep ş
+ unu söylerim: Matematik sadece sayılardan ibaret değildir\, hikâyeleri
+  anlamanın da bir yoludur. 29 Ekim 1923'ten bugüne 103 yıl geçti. Bu t
+ am 37.621 gün ve yaklaşık 4 nesil ediyor. Bu sayıların arkasında oku
+ la giden\, okumayı öğrenen ve öğrenmeye devam eden milyonlarca insan 
+ var. Sen bu hesabı kendi ailen için yapsan kaç nesil çıkar? Yoruma ya
+ z\, birlikte hesaplayalım. Cumhuriyet Bayramımız kutlu olsun 🇹🇷"\
+ n\n#CumhuriyetBayramı #29Ekim #103Yıl #Cumhuriyet103 #MatematikÖğretme
+ ni #Öğretmenlik #EğitimGünlüğü #MathTeacher #RepublicDay\n\n🎬 RE
+ ELS (~40 sn)\nİlk 3 saniye: Ekranda "103 yıl kaç gün?"\, sesli olarak 
+ "Cumhuriyet'in yaşını hiç gün olarak hesapladın mı?"\n0:00–0:03 T
+ ahtada "1923 → 2026"\n0:03–0:12 2026 − 1923 = 103\n0:12–0:25 103 
+ × 365 = 37.595\, + 26 artık gün = 37.621\n0:25–0:35 Kameraya: "Her g
+ ün bir öğrenci\, bir öğretmen\, bir sınıf."\n0:35–0:40 "Cumhuriye
+ timiz 103 yaşında\, kutlu olsun 🇹🇷"\nSes: Vakur ve telifsiz bir en
+ strümantal. Kapak: tahtada kırmızı tebeşirle "103".\n\n📱 HİKÂYE\
+ n1) Geri sayım: "29 Ekim'e kaç saat kaldı?"\n2) Quiz: "Cumhuriyet kaç 
+ yaşında?" A) 101 B) 102 C) 103\n3) Soru kutusu: "Ailende Cumhuriyet'in i
+ lk yıllarını yaşayan biri var mıydı?"\n4) Emoji kaydırıcı 🇹
+ 🇷\n5) Kutlama karesi ve "Postu kaydet" yönlendirmesi\n\n⏰ PLAN\n28 E
+ kim: Tahtayı ve tebeşirleri hazırla\, reels'i çek\, carousel'i tasarla
+ .\n29 Ekim: Hikâye 08:30–09:30\, post 12:00–13:00\, reels 19:00–21:
+ 00.\n\n⚠️ DİKKAT\nBayrak\, Atatürk görseli ve İstiklâl Marşı'n
+ ı saygılı ve doğru kullan\, marşı fon müziği yapma. Öğrenci gör
+ üntüsü kullanacaksan veli izni al.
+TRANSP:TRANSPARENT
+URL:https://github.com/caciki123-dev/ozel-gunler-takvimi/blob/main/notlar/2
+ 026-10-29.md
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Cumhuriyet Bayramı — gündem ve içerik planı etkin
+ lik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:40bfbc3484e03b94@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Cadılar Bayramı [popüler]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Cadılar Bayramı [popüler] — gündem ve içerik pla
+ nı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3e63c4a522885a58@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Atatürk’ü Anma Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Atatürk’ü Anma Günü — gündem ve içerik planı
+  etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3e28279129363a4b@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Dünya Diyabet Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Diyabet Günü — gündem ve içerik planı etk
+ inlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c83be63a71384bb8@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261121
+SUMMARY:1. Dönem Ara Tatili [öğretmenlik/vlog]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.\n\nTarih kaynağı: MEB 2026-2027 çalışma takvimi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: 1. Dönem Ara Tatili [öğretmenlik/vlog] — gündem v
+ e içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ae19b765207800dc@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Uluslararası Hoşgörü Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Hoşgörü Günü — gündem ve içerik 
+ planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a2e3a3ca198b3186@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Dünya Çocuk Hakları Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Çocuk Hakları Günü — gündem ve içerik pl
+ anı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ed0306a5a3c3e4ef@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Fibonacci Günü [matematik]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Fibonacci Günü [matematik] — gündem ve içerik pla
+ nı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1aa23fe50996602@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Öğretmenler Günü [öğretmenlik]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Öğretmenler Günü [öğretmenlik] — gündem ve iç
+ erik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acfc493f8905183b@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Kadına Yönelik Şiddete Karşı Uluslararası Mücade
+ le Günü — gündem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f906099d11b02c74@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Dünya AIDS Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya AIDS Günü — gündem ve içerik planı etkinl
+ ik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:57ae0a8e5d4248a1@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Dünya Engelliler Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Engelliler Günü — gündem ve içerik planı 
+ etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fd9d7b8c0eb43fb2@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Dünya Madenciler Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Madenciler Günü — gündem ve içerik planı 
+ etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7d723baecba305e5@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Dünya Gönüllüler Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Gönüllüler Günü — gündem ve içerik plan
+ ı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9a53a450cb209266@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Dünya Türk Kahvesi Günü [popüler]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Türk Kahvesi Günü [popüler] — gündem ve i
+ çerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:59f0e0db07243ed2@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Türk Kadınına Seçme ve Seçilme Hakkının Verilişi
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Türk Kadınına Seçme ve Seçilme Hakkının Veriliş
+ i — gündem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:298c7ee909eb32d9@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Regaip Kandili
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.\n\nTarih kaynağı: Diyanet 2026 dini günler takvimi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Regaip Kandili — gündem ve içerik planı etkinlik n
+ otlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dcbc2391d80c2a8e@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:İnsan Hakları Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: İnsan Hakları Günü — gündem ve içerik planı et
+ kinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9751ec32b5f623f3@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261219
+SUMMARY:Tutum\, Yatırım ve Türk Malları Haftası [MEB]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Tutum\, Yatırım ve Türk Malları Haftası [MEB] — 
+ gündem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:95b51560ecbbeeb1@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Yılbaşı Gecesi [vlog]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Yılbaşı Gecesi [vlog] — gündem ve içerik planı 
+ etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f2daab8bdf40a409@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Yılbaşı
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Yılbaşı — gündem ve içerik planı etkinlik notla
+ rında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ca567e7902def74b@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Dünya Braille Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Braille Günü — gündem ve içerik planı etk
+ inlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8a7f952c3a9c0cd0@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Miraç Kandili
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.\n\nTarih kaynağı: Diyanet 2027 dini günler takvimi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Miraç Kandili — gündem ve içerik planı etkinlik n
+ otlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a391833bf375320f@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Çalışan Gazeteciler Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Çalışan Gazeteciler Günü — gündem ve içerik pl
+ anı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3dbd6b1e6243e3e6@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Dünya Mantık Günü [matematik]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Mantık Günü [matematik] — gündem ve içeri
+ k planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cd61450214d3231a@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Berat Kandili
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.\n\nTarih kaynağı: Diyanet 2027 dini günler takvimi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Berat Kandili — gündem ve içerik planı etkinlik no
+ tlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5326773a81d77b6d@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Karne Günü – Yarıyıl Tatili Başlıyor [öğretmenlik/vlog]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.\n\nTarih kaynağı: MEB 2026-2027: yarıyıl tatili 25 Ocak – 5 
+ Şubat 2027
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Karne Günü – Yarıyıl Tatili Başlıyor [öğretme
+ nlik/vlog] — gündem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e0dbc6d5e07ee064@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Uluslararası Eğitim Günü [öğretmenlik]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Eğitim Günü [öğretmenlik] — günde
+ m ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:144d03dc58b109b7@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Dünya Kanser Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Kanser Günü — gündem ve içerik planı etki
+ nlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:44cb552f92955834@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:6 Şubat Depremlerini Anma Günü [hassas]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: 6 Şubat Depremlerini Anma Günü [hassas] — gündem 
+ ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f7a834f6e995322b@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:2. Dönemin Başlangıcı [öğretmenlik/vlog]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.\n\nTarih kaynağı: MEB 2026-2027 çalışma takvimi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: 2. Dönemin Başlangıcı [öğretmenlik/vlog] — gün
+ dem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:568347a6b3fd2491@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Ramazan Ayının Başlangıcı
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.\n\nTarih kaynağı: Diyanet 2027 dini günler takvimi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Ramazan Ayının Başlangıcı — gündem ve içerik p
+ lanı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e2c689c92336aa5c@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Bilimde Kadınlar ve Kız Çocukları Günü [matematik/bilim]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Bilimde Kadınlar ve Kız Çocukları Günü [matematik
+ /bilim] — gündem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3066ec5b1eb2b471@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Dünya Radyo Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Radyo Günü — gündem ve içerik planı etkin
+ lik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8a296224bc65415c@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Sevgililer Günü [popüler]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Sevgililer Günü [popüler] — gündem ve içerik pla
+ nı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b42f193d69406691@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Dünya Sosyal Adalet Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Sosyal Adalet Günü — gündem ve içerik plan
+ ı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e6309bf3196d05d2@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Uluslararası Anadili Günü [eğitim]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Anadili Günü [eğitim] — gündem ve i
+ çerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bcde4b2429565d53@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Dünya Yaban Hayatı Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Yaban Hayatı Günü — gündem ve içerik plan
+ ı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:81a24107b37cb01d@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Kadir Gecesi
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.\n\nTarih kaynağı: Diyanet 2027 dini günler takvimi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Kadir Gecesi — gündem ve içerik planı etkinlik not
+ larında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8985f8c334f2704f@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270313
+SUMMARY:2. Dönem Ara Tatili [öğretmenlik/vlog]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.\n\nTarih kaynağı: MEB 2026-2027 çalışma takvimi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: 2. Dönem Ara Tatili [öğretmenlik/vlog] — gündem v
+ e içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5f8c65b0303dacfe@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270315
+SUMMARY:Bilim ve Teknoloji Haftası [MEB]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Bilim ve Teknoloji Haftası [MEB] — gündem ve içeri
+ k planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b217cd0ef8719abf@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Dünya Kadınlar Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Kadınlar Günü — gündem ve içerik planı e
+ tkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:517a7efc8a4582d9@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Ramazan Bayramı Arifesi
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.\n\nTarih kaynağı: Diyanet 2027 dini günler takvimi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Ramazan Bayramı Arifesi — gündem ve içerik planı 
+ etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6ab107377c517b57@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270312
+SUMMARY:Ramazan Bayramı
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.\n\nTarih kaynağı: Diyanet 2027 dini günler takvimi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Ramazan Bayramı — gündem ve içerik planı etkinlik
+  notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:94ee6b0a82c37326@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:İstiklâl Marşı’nın Kabulü ve Mehmet Âkif Ersoy’u Anma G
+ ünü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: İstiklâl Marşı’nın Kabulü ve Mehmet Âkif Ersoy
+ ’u Anma Günü — gündem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:589dbfbb3691f0d7@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Pi Günü ve Uluslararası Matematik Günü [matematik]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Pi Günü ve Uluslararası Matematik Günü [matematik]
+  — gündem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:051cc7bc1511c962@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Tıp Bayramı
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Tıp Bayramı — gündem ve içerik planı etkinlik no
+ tlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bd6cd1dc4237446d@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Dünya Tüketici Hakları Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Tüketici Hakları Günü — gündem ve içerik
+  planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:76599611f9bae9a6@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Çanakkale Zaferi ve Şehitleri Anma Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Çanakkale Zaferi ve Şehitleri Anma Günü — gündem
+  ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b015efe50a4661fc@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Uluslararası Mutluluk Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Mutluluk Günü — gündem ve içerik pl
+ anı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e4bede2e1e6c65d4@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Dünya Şiir Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Şiir Günü — gündem ve içerik planı etkin
+ lik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bc963009cab046ad@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Nevruz
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Nevruz — gündem ve içerik planı etkinlik notların
+ da
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:741084e0bbaf8d0a@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Dünya Su Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Su Günü — gündem ve içerik planı etkinlik
+  notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:81e5409098aa659c@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Dünya Tiyatro Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Tiyatro Günü — gündem ve içerik planı etk
+ inlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f0d65524d08f46ed@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:1 Nisan Şaka Günü [popüler]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: 1 Nisan Şaka Günü [popüler] — gündem ve içerik 
+ planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6fb6c1aa755d784a@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Dünya Otizm Farkındalık Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Otizm Farkındalık Günü — gündem ve içeri
+ k planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4cde2ec0eba7aa4e@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Dünya Sağlık Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Sağlık Günü — gündem ve içerik planı et
+ kinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adb8fd0477b85408@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:Dünya Havacılık ve Uzay Günü [matematik/bilim]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Havacılık ve Uzay Günü [matematik/bilim] —
+  gündem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4d46a0142fc1351a@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Dünya Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Günü — gündem ve içerik planı etkinlik no
+ tlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:da84f4f7a9587cc1@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Dünya Kitap ve Telif Hakkı Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Kitap ve Telif Hakkı Günü — gündem ve içe
+ rik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fe51645a7dd87c4f@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Ulusal Egemenlik ve Çocuk Bayramı
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Ulusal Egemenlik ve Çocuk Bayramı — gündem ve içe
+ rik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1f2ffdd1e45a15dc@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Dünya Dans Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Dans Günü — gündem ve içerik planı etkinl
+ ik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6ee4a74e9fecda15@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Emek ve Dayanışma Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Emek ve Dayanışma Günü — gündem ve içerik plan
+ ı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:efa6b82225b8e7a6@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Dünya Basın Özgürlüğü Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Basın Özgürlüğü Günü — gündem ve içe
+ rik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:86b1a1731f5221d1@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Star Wars Günü [popüler kültür]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Star Wars Günü [popüler kültür] — gündem ve iç
+ erik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c9ed8082ad8d9e3e@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Hıdrellez
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Hıdrellez — gündem ve içerik planı etkinlik notla
+ rında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e7f635a16af424c1@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Anneler Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Anneler Günü — gündem ve içerik planı etkinlik n
+ otlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:065f83dfc5879c6c@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Hemşireler Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Hemşireler Günü — gündem ve içerik planı etkinl
+ ik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea7e13f0338bf8a0@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Kurban Bayramı Arifesi
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.\n\nTarih kaynağı: Diyanet 2027 dini günler takvimi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Kurban Bayramı Arifesi — gündem ve içerik planı e
+ tkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:80e86adffdb8d8b9@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Uluslararası Aile Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Aile Günü — gündem ve içerik planı
+  etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8be702c5346fe7f3@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270520
+SUMMARY:Kurban Bayramı
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.\n\nTarih kaynağı: Diyanet 2027 dini günler takvimi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Kurban Bayramı — gündem ve içerik planı etkinlik 
+ notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:588f93bfd08ead89@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Uluslararası Müzeler Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Müzeler Günü — gündem ve içerik pl
+ anı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5887f7af650df892@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Atatürk’ü Anma\, Gençlik ve Spor Bayramı
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Atatürk’ü Anma\, Gençlik ve Spor Bayramı — gün
+ dem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b586c937159c676d@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Dünya Arı Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Arı Günü — gündem ve içerik planı etkinl
+ ik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:84eeb3f5584c6c7a@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Dünya Kültürel Çeşitlilik Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Kültürel Çeşitlilik Günü — gündem ve i
+ çerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e6f304df46128033@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Dünya Çay Günü [popüler]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Çay Günü [popüler] — gündem ve içerik pl
+ anı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5d528c41d2e7834d@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:İstanbul’un Fethi
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: İstanbul’un Fethi — gündem ve içerik planı etki
+ nlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c62065f30b35a3aa@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Dünya Tütünsüz Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Tütünsüz Günü — gündem ve içerik planı
+  etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:251f6e9b9208d29b@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Dünya Çevre Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Çevre Günü — gündem ve içerik planı etki
+ nlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a40415d0759824be@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Dünya Okyanuslar Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Okyanuslar Günü — gündem ve içerik planı 
+ etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:45a4928945c2bdd6@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Dünya Çocuk İşçiliğiyle Mücadele Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Çocuk İşçiliğiyle Mücadele Günü — gün
+ dem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:828a6666b1e7fdc1@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Dünya Gönüllü Kan Bağışçıları Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Gönüllü Kan Bağışçıları Günü — gün
+ dem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2f6500520eb478ba@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Babalar Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Babalar Günü — gündem ve içerik planı etkinlik n
+ otlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8c27594e2483c3ed@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Dünya Müzik Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Müzik Günü — gündem ve içerik planı etki
+ nlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:18d500d5060b7ff9@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Uluslararası Yoga Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Yoga Günü — gündem ve içerik planı
+  etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:98c6c37057a6aeaa@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Yıl Sonu Karne Günü – Yaz Tatili Başlıyor [öğretmenlik/vlo
+ g]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.\n\nTarih kaynağı: MEB 2026-2027 çalışma takvimi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Yıl Sonu Karne Günü – Yaz Tatili Başlıyor [öğr
+ etmenlik/vlog] — gündem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:72085f36983c0711@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Uyuşturucu Kullanımı ve Kaçakçılığıyla Mücadele Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uyuşturucu Kullanımı ve Kaçakçılığıyla Mücade
+ le Günü — gündem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fea1f4ee4087ff24@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Tau Günü [matematik]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Tau Günü [matematik] — gündem ve içerik planı et
+ kinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:df0a3b21079c284e@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Dünya Sosyal Medya Günü [popüler]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Sosyal Medya Günü [popüler] — gündem ve i
+ çerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f2f7a3bf951be6b0@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Uluslararası Asteroit Günü [matematik/bilim]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Asteroit Günü [matematik/bilim] — gü
+ ndem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f0349bf56cce35c8@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Denizcilik ve Kabotaj Bayramı
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Denizcilik ve Kabotaj Bayramı — gündem ve içerik p
+ lanı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:92f7fb93dc75088e@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Dünya Nüfus Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Nüfus Günü — gündem ve içerik planı etki
+ nlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8d1fe05c7790ed7b@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:Demokrasi ve Millî Birlik Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Demokrasi ve Millî Birlik Günü — gündem ve içeri
+ k planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79c0eff1d20ba7f5@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Dünya Emoji Günü [popüler]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Emoji Günü [popüler] — gündem ve içerik p
+ lanı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a1a0e125219395ba@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Nelson Mandela Uluslararası Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Nelson Mandela Uluslararası Günü — gündem ve içe
+ rik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c2cd25452506c40c@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Uluslararası Ay Günü [matematik/bilim]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Ay Günü [matematik/bilim] — gündem v
+ e içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:98e4a7d9b45c443b@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:Pi Yaklaşım Günü (22/7) [matematik]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Pi Yaklaşım Günü (22/7) [matematik] — gündem ve 
+ içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:17e9d4047e046e45@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Uluslararası Dostluk Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Dostluk Günü — gündem ve içerik pla
+ nı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2335952e93295654@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:Dünya Kedi Günü [popüler]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Kedi Günü [popüler] — gündem ve içerik pl
+ anı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:960831a6e5317552@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:Uluslararası Gençlik Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Gençlik Günü — gündem ve içerik pl
+ anı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:831471cc34e6b77b@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:17 Ağustos Marmara Depremini Anma Günü [hassas]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: 17 Ağustos Marmara Depremini Anma Günü [hassas] — 
+ gündem ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62823aa920df1ee3@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:Dünya Fotoğraf Günü [popüler]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Fotoğraf Günü [popüler] — gündem ve içer
+ ik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b06448113b0afb@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:Zafer Bayramı
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Zafer Bayramı — gündem ve içerik planı etkinlik n
+ otlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:25455a7f963fa213@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:Uluslararası Hayırseverlik Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Hayırseverlik Günü — gündem ve içe
+ rik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8f4c36d779995ff9@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Dünya Okuryazarlık Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Okuryazarlık Günü — gündem ve içerik plan
+ ı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:44112f4afb48b7be@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Uluslararası Demokrasi Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Demokrasi Günü — gündem ve içerik p
+ lanı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1157475e97b3cf59@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Gaziler Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Gaziler Günü — gündem ve içerik planı etkinlik n
+ otlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:43dedaf5e236a5d4@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:Uluslararası Barış Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Barış Günü — gündem ve içerik pla
+ nı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9374e42229e114a1@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Türk Dil Bayramı [eğitim]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Türk Dil Bayramı [eğitim] — gündem ve içerik pla
+ nı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4802a36c038d09d6@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20270928
+SUMMARY:Dünya Turizm Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Turizm Günü — gündem ve içerik planı etki
+ nlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1e084733a128d17d@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:Dünya Kahve Günü [popüler]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Kahve Günü [popüler] — gündem ve içerik p
+ lanı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:318a33203eddea5a@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:Dünya Yaşlılar Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Yaşlılar Günü — gündem ve içerik planı 
+ etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3a355f0a2af300ed@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271011
+SUMMARY:Dünya Uzay Haftası [matematik/bilim]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Uzay Haftası [matematik/bilim] — gündem ve i
+ çerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c007458b93edc841@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:Hayvanları Koruma Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Hayvanları Koruma Günü — gündem ve içerik planı
+  etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ce11fd1b39bb8c31@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:Dünya Öğretmenler Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Öğretmenler Günü — gündem ve içerik plan
+ ı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d0dd1854119c8cf2@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:Dünya Ruh Sağlığı Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Ruh Sağlığı Günü — gündem ve içerik pl
+ anı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a623fae9dbdc8ba5@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:Dünya Kız Çocukları Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Kız Çocukları Günü — gündem ve içerik p
+ lanı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9773ad8a7dcc93f3@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:Ada Lovelace Günü [matematik/bilim]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Ada Lovelace Günü [matematik/bilim] — gündem ve i
+ çerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7365dddfa98079bf@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:Dünya Gıda Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Gıda Günü — gündem ve içerik planı etkin
+ lik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9e784e45b3328536@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:Mol Günü (6\,02×10²³) [matematik/bilim]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Mol Günü (6\,02×10²³) [matematik/bilim] — günde
+ m ve içerik planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:85d3bb31e3eb86c4@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:Birleşmiş Milletler Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Birleşmiş Milletler Günü — gündem ve içerik pla
+ nı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cff16f60c38b5608@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:Cumhuriyet Bayramı
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Cumhuriyet Bayramı — gündem ve içerik planı etkin
+ lik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d683957efce2550e@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Cadılar Bayramı [popüler]
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Cadılar Bayramı [popüler] — gündem ve içerik pla
+ nı etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0d692a946d9b50e2@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:Atatürk’ü Anma Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Atatürk’ü Anma Günü — gündem ve içerik planı
+  etkinlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26ce8f80a957b38d@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:Dünya Diyabet Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Dünya Diyabet Günü — gündem ve içerik planı etk
+ inlik notlarında
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:27ece5b1364a0397@ozel-gunler-takvimi
+DTSTAMP:20261015T125650Z
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271117
+SUMMARY:Uluslararası Hoşgörü Günü
+DESCRIPTION:Gündem ve içerik planı\, bir gün önce sabah bu notlara ekl
+ enecek.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15H
+DESCRIPTION:Yarın: Uluslararası Hoşgörü Günü — gündem ve içerik 
+ planı etkinlik notlarında
+END:VALARM
+END:VEVENT
+END:VCALENDAR

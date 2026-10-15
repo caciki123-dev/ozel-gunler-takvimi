@@ -1,0 +1,556 @@
+{
+ "sabit": [
+  {
+   "tarih": "01-01",
+   "ad": "Yılbaşı"
+  },
+  {
+   "tarih": "01-04",
+   "ad": "Dünya Braille Günü"
+  },
+  {
+   "tarih": "01-10",
+   "ad": "Çalışan Gazeteciler Günü"
+  },
+  {
+   "tarih": "01-14",
+   "ad": "Dünya Mantık Günü",
+   "etiket": "matematik"
+  },
+  {
+   "tarih": "01-24",
+   "ad": "Uluslararası Eğitim Günü",
+   "etiket": "öğretmenlik"
+  },
+  {
+   "tarih": "02-04",
+   "ad": "Dünya Kanser Günü"
+  },
+  {
+   "tarih": "02-06",
+   "ad": "6 Şubat Depremlerini Anma Günü",
+   "etiket": "hassas"
+  },
+  {
+   "tarih": "02-11",
+   "ad": "Bilimde Kadınlar ve Kız Çocukları Günü",
+   "etiket": "matematik/bilim"
+  },
+  {
+   "tarih": "02-13",
+   "ad": "Dünya Radyo Günü"
+  },
+  {
+   "tarih": "02-14",
+   "ad": "Sevgililer Günü",
+   "etiket": "popüler"
+  },
+  {
+   "tarih": "02-20",
+   "ad": "Dünya Sosyal Adalet Günü"
+  },
+  {
+   "tarih": "02-21",
+   "ad": "Uluslararası Anadili Günü",
+   "etiket": "eğitim"
+  },
+  {
+   "tarih": "03-03",
+   "ad": "Dünya Yaban Hayatı Günü"
+  },
+  {
+   "tarih": "03-08",
+   "ad": "Dünya Kadınlar Günü"
+  },
+  {
+   "tarih": "03-08",
+   "ad": "Bilim ve Teknoloji Haftası",
+   "etiket": "MEB",
+   "bitis": "03-14"
+  },
+  {
+   "tarih": "03-12",
+   "ad": "İstiklâl Marşı’nın Kabulü ve Mehmet Âkif Ersoy’u Anma Günü"
+  },
+  {
+   "tarih": "03-14",
+   "ad": "Pi Günü ve Uluslararası Matematik Günü",
+   "etiket": "matematik"
+  },
+  {
+   "tarih": "03-14",
+   "ad": "Tıp Bayramı"
+  },
+  {
+   "tarih": "03-15",
+   "ad": "Dünya Tüketici Hakları Günü"
+  },
+  {
+   "tarih": "03-18",
+   "ad": "Çanakkale Zaferi ve Şehitleri Anma Günü"
+  },
+  {
+   "tarih": "03-20",
+   "ad": "Uluslararası Mutluluk Günü"
+  },
+  {
+   "tarih": "03-21",
+   "ad": "Dünya Şiir Günü"
+  },
+  {
+   "tarih": "03-21",
+   "ad": "Nevruz"
+  },
+  {
+   "tarih": "03-22",
+   "ad": "Dünya Su Günü"
+  },
+  {
+   "tarih": "03-27",
+   "ad": "Dünya Tiyatro Günü"
+  },
+  {
+   "tarih": "04-01",
+   "ad": "1 Nisan Şaka Günü",
+   "etiket": "popüler"
+  },
+  {
+   "tarih": "04-02",
+   "ad": "Dünya Otizm Farkındalık Günü"
+  },
+  {
+   "tarih": "04-07",
+   "ad": "Dünya Sağlık Günü"
+  },
+  {
+   "tarih": "04-12",
+   "ad": "Dünya Havacılık ve Uzay Günü",
+   "etiket": "matematik/bilim"
+  },
+  {
+   "tarih": "04-22",
+   "ad": "Dünya Günü"
+  },
+  {
+   "tarih": "04-23",
+   "ad": "Ulusal Egemenlik ve Çocuk Bayramı"
+  },
+  {
+   "tarih": "04-23",
+   "ad": "Dünya Kitap ve Telif Hakkı Günü"
+  },
+  {
+   "tarih": "04-29",
+   "ad": "Dünya Dans Günü"
+  },
+  {
+   "tarih": "05-01",
+   "ad": "Emek ve Dayanışma Günü"
+  },
+  {
+   "tarih": "05-03",
+   "ad": "Dünya Basın Özgürlüğü Günü"
+  },
+  {
+   "tarih": "05-04",
+   "ad": "Star Wars Günü",
+   "etiket": "popüler kültür"
+  },
+  {
+   "tarih": "05-06",
+   "ad": "Hıdrellez"
+  },
+  {
+   "tarih": "05-12",
+   "ad": "Hemşireler Günü"
+  },
+  {
+   "tarih": "05-15",
+   "ad": "Uluslararası Aile Günü"
+  },
+  {
+   "tarih": "05-18",
+   "ad": "Uluslararası Müzeler Günü"
+  },
+  {
+   "tarih": "05-19",
+   "ad": "Atatürk’ü Anma, Gençlik ve Spor Bayramı"
+  },
+  {
+   "tarih": "05-20",
+   "ad": "Dünya Arı Günü"
+  },
+  {
+   "tarih": "05-21",
+   "ad": "Dünya Kültürel Çeşitlilik Günü"
+  },
+  {
+   "tarih": "05-21",
+   "ad": "Dünya Çay Günü",
+   "etiket": "popüler"
+  },
+  {
+   "tarih": "05-29",
+   "ad": "İstanbul’un Fethi"
+  },
+  {
+   "tarih": "05-31",
+   "ad": "Dünya Tütünsüz Günü"
+  },
+  {
+   "tarih": "06-05",
+   "ad": "Dünya Çevre Günü"
+  },
+  {
+   "tarih": "06-08",
+   "ad": "Dünya Okyanuslar Günü"
+  },
+  {
+   "tarih": "06-12",
+   "ad": "Dünya Çocuk İşçiliğiyle Mücadele Günü"
+  },
+  {
+   "tarih": "06-14",
+   "ad": "Dünya Gönüllü Kan Bağışçıları Günü"
+  },
+  {
+   "tarih": "06-21",
+   "ad": "Uluslararası Yoga Günü"
+  },
+  {
+   "tarih": "06-21",
+   "ad": "Dünya Müzik Günü"
+  },
+  {
+   "tarih": "06-26",
+   "ad": "Uyuşturucu Kullanımı ve Kaçakçılığıyla Mücadele Günü"
+  },
+  {
+   "tarih": "06-28",
+   "ad": "Tau Günü",
+   "etiket": "matematik"
+  },
+  {
+   "tarih": "06-30",
+   "ad": "Dünya Sosyal Medya Günü",
+   "etiket": "popüler"
+  },
+  {
+   "tarih": "06-30",
+   "ad": "Uluslararası Asteroit Günü",
+   "etiket": "matematik/bilim"
+  },
+  {
+   "tarih": "07-01",
+   "ad": "Denizcilik ve Kabotaj Bayramı"
+  },
+  {
+   "tarih": "07-11",
+   "ad": "Dünya Nüfus Günü"
+  },
+  {
+   "tarih": "07-15",
+   "ad": "Demokrasi ve Millî Birlik Günü"
+  },
+  {
+   "tarih": "07-17",
+   "ad": "Dünya Emoji Günü",
+   "etiket": "popüler"
+  },
+  {
+   "tarih": "07-18",
+   "ad": "Nelson Mandela Uluslararası Günü"
+  },
+  {
+   "tarih": "07-20",
+   "ad": "Uluslararası Ay Günü",
+   "etiket": "matematik/bilim"
+  },
+  {
+   "tarih": "07-22",
+   "ad": "Pi Yaklaşım Günü (22/7)",
+   "etiket": "matematik"
+  },
+  {
+   "tarih": "07-30",
+   "ad": "Uluslararası Dostluk Günü"
+  },
+  {
+   "tarih": "08-08",
+   "ad": "Dünya Kedi Günü",
+   "etiket": "popüler"
+  },
+  {
+   "tarih": "08-12",
+   "ad": "Uluslararası Gençlik Günü"
+  },
+  {
+   "tarih": "08-17",
+   "ad": "17 Ağustos Marmara Depremini Anma Günü",
+   "etiket": "hassas"
+  },
+  {
+   "tarih": "08-19",
+   "ad": "Dünya Fotoğraf Günü",
+   "etiket": "popüler"
+  },
+  {
+   "tarih": "08-30",
+   "ad": "Zafer Bayramı"
+  },
+  {
+   "tarih": "09-05",
+   "ad": "Uluslararası Hayırseverlik Günü"
+  },
+  {
+   "tarih": "09-08",
+   "ad": "Dünya Okuryazarlık Günü"
+  },
+  {
+   "tarih": "09-15",
+   "ad": "Uluslararası Demokrasi Günü"
+  },
+  {
+   "tarih": "09-19",
+   "ad": "Gaziler Günü"
+  },
+  {
+   "tarih": "09-21",
+   "ad": "Uluslararası Barış Günü"
+  },
+  {
+   "tarih": "09-26",
+   "ad": "Türk Dil Bayramı",
+   "etiket": "eğitim"
+  },
+  {
+   "tarih": "09-27",
+   "ad": "Dünya Turizm Günü"
+  },
+  {
+   "tarih": "10-01",
+   "ad": "Dünya Yaşlılar Günü"
+  },
+  {
+   "tarih": "10-01",
+   "ad": "Dünya Kahve Günü",
+   "etiket": "popüler"
+  },
+  {
+   "tarih": "10-04",
+   "ad": "Hayvanları Koruma Günü"
+  },
+  {
+   "tarih": "10-04",
+   "ad": "Dünya Uzay Haftası",
+   "etiket": "matematik/bilim",
+   "bitis": "10-10"
+  },
+  {
+   "tarih": "10-05",
+   "ad": "Dünya Öğretmenler Günü"
+  },
+  {
+   "tarih": "10-10",
+   "ad": "Dünya Ruh Sağlığı Günü"
+  },
+  {
+   "tarih": "10-11",
+   "ad": "Dünya Kız Çocukları Günü"
+  },
+  {
+   "tarih": "10-16",
+   "ad": "Dünya Gıda Günü"
+  },
+  {
+   "tarih": "10-23",
+   "ad": "Mol Günü (6,02×10²³)",
+   "etiket": "matematik/bilim"
+  },
+  {
+   "tarih": "10-24",
+   "ad": "Birleşmiş Milletler Günü"
+  },
+  {
+   "tarih": "10-29",
+   "ad": "Cumhuriyet Bayramı"
+  },
+  {
+   "tarih": "10-31",
+   "ad": "Cadılar Bayramı",
+   "etiket": "popüler"
+  },
+  {
+   "tarih": "11-10",
+   "ad": "Atatürk’ü Anma Günü"
+  },
+  {
+   "tarih": "11-14",
+   "ad": "Dünya Diyabet Günü"
+  },
+  {
+   "tarih": "11-16",
+   "ad": "Uluslararası Hoşgörü Günü"
+  },
+  {
+   "tarih": "11-20",
+   "ad": "Dünya Çocuk Hakları Günü"
+  },
+  {
+   "tarih": "11-23",
+   "ad": "Fibonacci Günü",
+   "etiket": "matematik"
+  },
+  {
+   "tarih": "11-24",
+   "ad": "Öğretmenler Günü",
+   "etiket": "öğretmenlik"
+  },
+  {
+   "tarih": "11-25",
+   "ad": "Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü"
+  },
+  {
+   "tarih": "12-01",
+   "ad": "Dünya AIDS Günü"
+  },
+  {
+   "tarih": "12-03",
+   "ad": "Dünya Engelliler Günü"
+  },
+  {
+   "tarih": "12-04",
+   "ad": "Dünya Madenciler Günü"
+  },
+  {
+   "tarih": "12-05",
+   "ad": "Dünya Gönüllüler Günü"
+  },
+  {
+   "tarih": "12-05",
+   "ad": "Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+  },
+  {
+   "tarih": "12-05",
+   "ad": "Dünya Türk Kahvesi Günü",
+   "etiket": "popüler"
+  },
+  {
+   "tarih": "12-10",
+   "ad": "İnsan Hakları Günü"
+  },
+  {
+   "tarih": "12-12",
+   "ad": "Tutum, Yatırım ve Türk Malları Haftası",
+   "etiket": "MEB",
+   "bitis": "12-18"
+  },
+  {
+   "tarih": "12-31",
+   "ad": "Yılbaşı Gecesi",
+   "etiket": "vlog"
+  }
+ ],
+ "kural": [
+  {
+   "ay": 5,
+   "kacinci": 2,
+   "haftagunu": "pazar",
+   "ad": "Anneler Günü"
+  },
+  {
+   "ay": 6,
+   "kacinci": 3,
+   "haftagunu": "pazar",
+   "ad": "Babalar Günü"
+  },
+  {
+   "ay": 10,
+   "kacinci": 2,
+   "haftagunu": "salı",
+   "ad": "Ada Lovelace Günü",
+   "etiket": "matematik/bilim"
+  }
+ ],
+ "tek_seferlik": [
+  {
+   "tarih": "2026-11-16",
+   "bitis": "2026-11-20",
+   "ad": "1. Dönem Ara Tatili",
+   "etiket": "öğretmenlik/vlog",
+   "kaynak": "MEB 2026-2027 çalışma takvimi"
+  },
+  {
+   "tarih": "2026-12-10",
+   "ad": "Regaip Kandili",
+   "kaynak": "Diyanet 2026 dini günler takvimi"
+  },
+  {
+   "tarih": "2027-01-04",
+   "ad": "Miraç Kandili",
+   "kaynak": "Diyanet 2027 dini günler takvimi"
+  },
+  {
+   "tarih": "2027-01-22",
+   "ad": "Berat Kandili",
+   "kaynak": "Diyanet 2027 dini günler takvimi"
+  },
+  {
+   "tarih": "2027-01-22",
+   "ad": "Karne Günü – Yarıyıl Tatili Başlıyor",
+   "etiket": "öğretmenlik/vlog",
+   "kaynak": "MEB 2026-2027: yarıyıl tatili 25 Ocak – 5 Şubat 2027"
+  },
+  {
+   "tarih": "2027-02-08",
+   "ad": "2. Dönemin Başlangıcı",
+   "etiket": "öğretmenlik/vlog",
+   "kaynak": "MEB 2026-2027 çalışma takvimi"
+  },
+  {
+   "tarih": "2027-02-08",
+   "ad": "Ramazan Ayının Başlangıcı",
+   "kaynak": "Diyanet 2027 dini günler takvimi"
+  },
+  {
+   "tarih": "2027-03-05",
+   "ad": "Kadir Gecesi",
+   "kaynak": "Diyanet 2027 dini günler takvimi"
+  },
+  {
+   "tarih": "2027-03-08",
+   "ad": "Ramazan Bayramı Arifesi",
+   "kaynak": "Diyanet 2027 dini günler takvimi"
+  },
+  {
+   "tarih": "2027-03-08",
+   "bitis": "2027-03-12",
+   "ad": "2. Dönem Ara Tatili",
+   "etiket": "öğretmenlik/vlog",
+   "kaynak": "MEB 2026-2027 çalışma takvimi"
+  },
+  {
+   "tarih": "2027-03-09",
+   "bitis": "2027-03-11",
+   "ad": "Ramazan Bayramı",
+   "kaynak": "Diyanet 2027 dini günler takvimi"
+  },
+  {
+   "tarih": "2027-05-15",
+   "ad": "Kurban Bayramı Arifesi",
+   "kaynak": "Diyanet 2027 dini günler takvimi"
+  },
+  {
+   "tarih": "2027-05-16",
+   "bitis": "2027-05-19",
+   "ad": "Kurban Bayramı",
+   "kaynak": "Diyanet 2027 dini günler takvimi"
+  },
+  {
+   "tarih": "2027-06-25",
+   "ad": "Yıl Sonu Karne Günü – Yaz Tatili Başlıyor",
+   "etiket": "öğretmenlik/vlog",
+   "kaynak": "MEB 2026-2027 çalışma takvimi"
+  }
+ ]
+}
