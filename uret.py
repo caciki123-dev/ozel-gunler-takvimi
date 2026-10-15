@@ -4,11 +4,14 @@ Bugünden 60 gün öncesi ile 400 gün sonrası arasındaki her özel gün tek t
 etkinlik olarak yazılır; notlar/YYYY-MM-DD.md varsa o günün etkinliklerinin
 açıklamasına eklenir. Her etkinlikte bir gün önce 09:00 hatırlatması vardır.
 
-Kullanım: python3 uret.py
+Kullanım:
+  python3 uret.py                    ozel-gunler.ics dosyasını üretir
+  python3 uret.py --gun 2026-10-29   o gün başlayan özel günleri listeler
 """
 import datetime as dt
 import hashlib
 import json
+import sys
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -97,10 +100,19 @@ def etkinlik(bas, bitis, ad, etiket, kaynak, not_metni, damga):
     return satirlar
 
 
+def gunu_listele(veri, tarih):
+    for _, bitis, ad, etiket, _ in gunleri_topla(veri, tarih, tarih):
+        sure = f" (→ {bitis:%d.%m})" if bitis != tarih else ""
+        print(f"{ad}{f' [{etiket}]' if etiket else ''}{sure}")
+
+
 def main():
+    veri = json.loads((KOK / "gunler.json").read_text(encoding="utf-8"))
+    if sys.argv[1:2] == ["--gun"]:
+        gunu_listele(veri, dt.date.fromisoformat(sys.argv[2]))
+        return
     bugun = dt.datetime.now(ZoneInfo("Europe/Istanbul")).date()
     bas, son = bugun - dt.timedelta(days=60), bugun + dt.timedelta(days=400)
-    veri = json.loads((KOK / "gunler.json").read_text(encoding="utf-8"))
     damga = dt.datetime.now(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     satirlar = [
         "BEGIN:VCALENDAR",
